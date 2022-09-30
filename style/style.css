@@ -1,0 +1,39 @@
+/* .todo-list {
+    list-style-type: square;
+    list-style-position: inside;
+} */
+
+.items-list {
+    list-style: square;
+}
+
+table {
+    width: 200px;
+    text-align: center;
+}
+
+table, th, td {
+    border: 1px solid red;
+    border-collapse: collapse;
+} 
+
+.head-row {
+    background-color: aqua;
+}
+
+.row-2 {
+    background-color: blanchedalmond;
+}
+
+.row-3 {
+    background-color: blue;
+}
+
+.row-4 td:nth-child(n) {
+    background-color: brown;
+}
+
+.row-4-1 {
+    background-color: brown;
+}
+
